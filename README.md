@@ -10,5 +10,3 @@ Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que v
 Além de outros recursos falados nas aulas!
 
 ## Desafio Concluído
-
-<img src="../desafio_html_moduloII/Imagens/DESAFIO_FINALIZADO.jpg" alt="Deafio concluido">
